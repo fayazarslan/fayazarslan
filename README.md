@@ -23,15 +23,15 @@ I’m a **WordPress Developer**, **Plugin Developer**, and **Frontend Web Develo
   - Frontend Web Development
 
 ## 📈 GitHub Stats & Trophies
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&margin-w=15)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=fayazarslan&show_icons=true&theme=radical)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=fayazarslan&theme=radical&margin-w=15)
 
 
 ## 🏆 Trophies & Expertise
-- **GitHub Stars**: ![Stars](https://img.shields.io/github/stars/yourusername?style=social)
-- **Followers**: ![Followers](https://img.shields.io/github/followers/yourusername?style=social)
-- **Public Repos**: ![Public Repos](https://img.shields.io/github/repos/yourusername?style=plastic)
+- **GitHub Stars**: ![Stars](https://img.shields.io/github/stars/fayazarslan?style=social)
+- **Followers**: ![Followers](https://img.shields.io/github/followers/fayazarslan?style=social)
+- **Public Repos**: ![Public Repos](https://img.shields.io/github/repos/fayazarslan?style=plastic)
 
 ## 📫 Let's Connect
 - [LinkedIn](https://linkedin.com/in/fayaz-ahmad-wordpress-expert)
-- [Follow Me on GitHub](https://github.com/yourusername?tab=followers) ![GitHub Followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)
+- [Follow Me on GitHub](https://github.com/fayazarslan?tab=followers) ![GitHub Followers](https://img.shields.io/github/followers/fayazarslan?label=Follow&style=social)
